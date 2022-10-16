@@ -1,0 +1,16 @@
+total 144
+-rw-r--r--@ 1 wonjihyeon  staff   1.1K  9 19 19:57 202234910_원지현_lab3.md
+-rw-r--r--@ 1 wonjihyeon  staff   3.0K  9 27 20:22 202234910_원지현_lecture_note_4.md
+-rw-r--r--@ 1 wonjihyeon  staff   1.8K 10  4 21:07 202234910_원지현_lecture_note_5.md
+-rw-r--r--@ 1 wonjihyeon  staff   1.4K 10 11 14:46 202234910_원지현_lecture_note_6.md
+-rw-r--r--@ 1 wonjihyeon  staff    15K  9  5 21:10 Lab1_202234910_원지현.docx
+-rw-r--r--@ 1 wonjihyeon  staff    39K  9  5 21:11 Lab1_202234910_원지현.pdf
+-rw-r--r--  1 wonjihyeon  staff     0B 10 16 21:27 file_list.txt
+total 152
+-rw-r--r--@ 1 wonjihyeon  staff   1.1K  9 19 19:57 202234910_원지현_lab3.md
+-rw-r--r--@ 1 wonjihyeon  staff   3.0K  9 27 20:22 202234910_원지현_lecture_note_4.md
+-rw-r--r--@ 1 wonjihyeon  staff   1.8K 10  4 21:07 202234910_원지현_lecture_note_5.md
+-rw-r--r--@ 1 wonjihyeon  staff   1.4K 10 11 14:46 202234910_원지현_lecture_note_6.md
+-rw-r--r--@ 1 wonjihyeon  staff    15K  9  5 21:10 Lab1_202234910_원지현.docx
+-rw-r--r--@ 1 wonjihyeon  staff    39K  9  5 21:11 Lab1_202234910_원지현.pdf
+-rw-r--r--  1 wonjihyeon  staff   672B 10 16 21:27 file_list.txt
